@@ -1,0 +1,33 @@
+<idea-plugin>
+  <id>com.github.unisay.pureforce</id>
+  <name>Pureforce</name>
+  <version>0.1.0</version>
+  <vendor email="Yuriy.Lazarev@gmail.com" url="http://github.com/Unisay">Yuriy Lazarev</vendor>
+
+  <description><![CDATA[
+      <a href="http://purescript.org">Purescript</a> language plugin<br>
+    ]]></description>
+
+  <change-notes><![CDATA[
+      No changes yet
+    ]]>
+  </change-notes>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+  <idea-version since-build="145.0"/>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+       on how to target different products -->
+  <!-- uncomment to enable plugin in all products
+  <depends>com.intellij.modules.lang</depends>
+  -->
+
+  <extensions defaultExtensionNs="com.intellij">
+    <!-- Add your extensions here -->
+  </extensions>
+
+  <actions>
+    <!-- Add your actions here -->
+  </actions>
+
+</idea-plugin>
